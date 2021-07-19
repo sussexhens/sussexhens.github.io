@@ -1,0 +1,40 @@
+html {
+	margin: 0;
+	padding: 0;
+	}
+
+body { 
+	font: 75% georgia, sans-serif;
+	line-height: 1.88889;
+	background-color: #555753; 
+	margin: 0; 
+	padding: 0;
+	}
+
+p { 
+	margin-top: 0; 
+	text-align: justify;
+	}
+
+h1 {
+    font-size: 3rem
+}
+
+h2 {
+    font-size: 1rem;
+    font-style: italic;
+}
+
+.HeaderImage { 
+    float: left;
+	}
+
+
+.IntroText { 
+    float: right;
+	}
+
+.HenBoardingService {
+    float: lower;
+}
+
